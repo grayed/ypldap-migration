@@ -274,3 +274,4 @@ function _write_group_ldif(group_ou,
   return rv
 }
 
+# hohoho
